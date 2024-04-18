@@ -24,7 +24,7 @@ class Curso {
     }
 }
 
-public class ExerciciosJava8 {
+public class MenuPrincipal {
     public static void main(String[] args) {
         while (true) {
             exibirMenu();
